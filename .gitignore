@@ -1,0 +1,68 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+flutter_*.png
+
+# Environment & IDE
+.env
+.idea/
+.vscode/
+*.iml
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Android
+android/.gradle/
+android/captures/
+android/.idea/
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS
+ios/Flutter/.last_build_id
+ios/.generated
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/.dart_tool/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+
+# Web
+web/.dart_tool/
+
+# Windows
+windows/.dart_tool/
+windows/flutter/ephemeral/
+
+# macOS
+macos/.dart_tool/
+macos/Flutter/ephemeral/
+
+# Linux
+linux/.dart_tool/
+linux/flutter/ephemeral/
+
+# Fuchsia
+.fuchsia/
+
+# Symbolication files
+app.*.symbols
+
+# Coverage
+coverage/
+*.lcov
+
+# Firebase
+.firebase/
+
+# Other files to ignore
+*.log
+*.tmp
